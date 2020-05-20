@@ -1,15 +1,15 @@
 # chechulina_e_project1
-##Description
+# Description
 This is the first project of Web Development.
 
-##Installation
+# Installation
 The requirements for this repo:
 1.5 JS file
 1.5 Reset
 1 Followed Instructions (PDF’s in assets folder etc)
 1 Properly uploaded to Git Hub
 
-##MIT License
+# MIT License
 MIT License Copyright (c) 2020 Elena Chechulina
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
